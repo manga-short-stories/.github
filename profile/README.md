@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is repository to host the manga short stories translations from Japanese.
+This is organisation to host the manga short stories translations from Japanese.
 
 <!--
 
